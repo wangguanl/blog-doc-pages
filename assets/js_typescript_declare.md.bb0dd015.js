@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./app.de1979c9.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"js/typescript/declare.md"}'),a={name:"js/typescript/declare.md"};function c(s,o,n,p,d,i){return r(),t("div")}const m=e(a,[["render",c]]);export{l as __pageData,m as default};

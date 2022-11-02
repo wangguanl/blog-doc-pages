@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.de1979c9.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"\u6846\u67B6/\u5FAE\u524D\u7AEF/qiankun.md"}'),n={name:"\u6846\u67B6/\u5FAE\u524D\u7AEF/qiankun.md"};function r(o,s,c,i,p,_){return a(),t("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,d as p}from"./app.de1979c9.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"js/typescript/\u6CDB\u578B.md"}'),l={name:"js/typescript/\u6CDB\u578B.md"},o=p("",2),t=[o];function e(r,c,F,y,D,C){return a(),n("div",null,t)}const _=s(l,[["render",e]]);export{i as __pageData,_ as default};

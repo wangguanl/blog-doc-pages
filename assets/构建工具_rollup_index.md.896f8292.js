@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./app.de1979c9.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"\u6784\u5EFA\u5DE5\u5177/rollup/index.md"}'),a={name:"\u6784\u5EFA\u5DE5\u5177/rollup/index.md"};function o(n,s,c,p,d,i){return r(),t("div")}const m=e(a,[["render",o]]);export{l as __pageData,m as default};
